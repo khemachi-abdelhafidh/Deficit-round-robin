@@ -7,12 +7,12 @@
 - 🔹 Dynamic visualization 🖥️ with the ability to add columns and analyze results easily.
 
 ## 🚀 How to Use
-1️⃣ Run the script.
-2️⃣ Enter arrival times for packets in queues (A, B, C).
-3️⃣ Set the Deficit Counter (DC) value.
-4️⃣ Click Apply to run the simulation.
+- 1️⃣ Run the script.
+- 2️⃣ Enter arrival times for packets in queues (A, B, C).
+- 3️⃣ Set the Deficit Counter (DC) value.
+- 4️⃣ Click Apply to run the simulation.
 
-## 🏆 محاكاة خوارزمية Deficit Round Robin باستخدام Python 🐍
+# 🏆 محاكاة خوارزمية Deficit Round Robin باستخدام Python 🐍
 - 🔹 واجهة رسومية تفاعلية لمحاكاة جدولة الحزم باستخدام خوارزمية DRR.
 - 🔹 أدخل أوقات وصول الحزم لكل طابور (A, B, C) وشاهد كيف يتم توزيعها عبر الجدولة العادلة!
 - 🔹 حدد قيمة DC 💡 ثم تابع تنفيذ الخوارزمية خطوة بخطوة.
