@@ -1,6 +1,6 @@
 # ✨ Deficit Round Robin Algorithm Simulation in Python 🐍
 
-# 📌 Overview
+## 📌 Overview
 # 🔹 Interactive GUI to simulate packet scheduling using the Deficit Round Robin (DRR) Algorithm.
 # 🔹 Enter packet arrival times for each queue (A, B, C) and watch how they are fairly scheduled!
 # 🔹 Set the Deficit Counter (DC) value 💡 and observe step-by-step execution.
