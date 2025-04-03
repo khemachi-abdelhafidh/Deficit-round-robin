@@ -1,6 +1,5 @@
 ﻿# Deficit-round-robin
 
- 🇬🇧 English
 🛠️ Deficit Round Robin Algorithm Simulation in Python 🐍
 
 📡 A hands-on experience in efficient packet scheduling using DRR.
@@ -20,7 +19,6 @@
 
 💡  جاهز لاستكشاف الكود؟ ابدأ من هنا! ⬇️
 
-🇫🇷 Français
 🛠️ Simulation de l'algorithme Deficit Round Robin en Python 🐍
 
 📡 Une expérience pratique pour comprendre l'ordonnancement efficace des paquets avec DRR.
