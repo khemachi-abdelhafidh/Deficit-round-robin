@@ -20,18 +20,15 @@
 
 <div style="display: flex; justify-content: space-between; gap: 20px;">
   <figure style="text-align: center; width: 32%; margin: 0;">
-    <img width="100%" height="auto" alt="Capture" src="https://github.com/user-attachments/assets/12b54508-fc21-4cbb-ba93-dd3ece4075a5" />
-    <figcaption>Caption 1</figcaption>
+    <img width="32%" height="auto" alt="Capture" src="https://github.com/user-attachments/assets/12b54508-fc21-4cbb-ba93-dd3ece4075a5" />
   </figure>
 
   <figure style="text-align: center; width: 32%; margin: 0;">
-    <img width="100%" height="auto" alt="Capture1" src="https://github.com/user-attachments/assets/73a37bd3-92f9-4106-b2d9-80e0fa978123" />
-    <figcaption>Caption 2</figcaption>
+    <img width="32%" height="auto" alt="Capture1" src="https://github.com/user-attachments/assets/73a37bd3-92f9-4106-b2d9-80e0fa978123" />
   </figure>
 
   <figure style="text-align: center; width: 32%; margin: 0;">
-    <img width="100%" height="auto" alt="Capture3" src="https://github.com/user-attachments/assets/760a2828-bd0b-4d7b-a280-70e8bac5fbf7" />
-    <figcaption>Caption 3</figcaption>
+    <img width="32%" height="auto" alt="Capture3" src="https://github.com/user-attachments/assets/760a2828-bd0b-4d7b-a280-70e8bac5fbf7" />
   </figure>
 </div>
 
