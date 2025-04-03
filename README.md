@@ -19,16 +19,13 @@
 - 🔹 عرض مرئي ديناميكي 🖥️ للبيانات مع إمكانية إضافة أعمدة وتحليل النتائج بسهولة.
   <figure style="display: inline-block; text-align: center; margin-right: 20px;">
   <img width="164" alt="Capture" src="https://github.com/user-attachments/assets/12b54508-fc21-4cbb-ba93-dd3ece4075a5" />
-  <figcaption style="font-size: 14px; color: #555; font-family: 'Arial', sans-serif;">Caption</figcaption>
 </figure>
 
 <figure style="display: inline-block; text-align: center; margin-right: 20px;">
   <img width="454" alt="Capture1" src="https://github.com/user-attachments/assets/73a37bd3-92f9-4106-b2d9-80e0fa978123" />
-  <figcaption style="font-size: 14px; color: #555; font-family: 'Arial', sans-serif;">Caption</figcaption>
 </figure>
 
 <figure style="display: inline-block; text-align: center;">
   <img width="473" alt="Capture3" src="https://github.com/user-attachments/assets/760a2828-bd0b-4d7b-a280-70e8bac5fbf7" />
-  <figcaption style="font-size: 14px; color: #555; font-family: 'Arial', sans-serif;">Caption</figcaption>
 </figure>
 
