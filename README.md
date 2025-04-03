@@ -17,6 +17,7 @@
 - 3️⃣ Set the Deficit Counter (DC) value.
 - 4️⃣ Click Apply to run the simulation.
 
+# ✨ Some Captions :) ✨
 
 <div style="display: flex; justify-content: space-between; gap: 20px;">
 
